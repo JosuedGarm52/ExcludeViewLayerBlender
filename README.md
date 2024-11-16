@@ -39,12 +39,12 @@ Este script es compatible con Blender 2.8 y versiones posteriores, ya que utiliz
 ## Propósito del Script
 Este script es ideal para proyectos grandes donde se utilizan muchas colecciones y es necesario alternar rápidamente su visibilidad en el View Layer sin hacerlo manualmente desde el Outliner.
 
-## iMAGENES
-![Coleccion con elementos desactivados](img/CollectionNoActivate.png)
-Ejemplo de colecciones desactivadas.  
-![Activacion del script](img/ScriptPlay.png)
+## IMAGENES
+![Coleccion con elementos desactivados](img/CollectionNoActivate.png)  
+Ejemplo de colecciones desactivadas.   
+![Activacion del script](img/ScriptPlay.png)  
 Ejecucion del script.   
-![Coleccion ya activados](img/CollectionActivated.png)
-Ejemplo activado. 
+![Coleccion ya activados](img/CollectionActivated.png)  
+Ejemplo activado.  
 
 Blender - Colecciones - View Layer - activacion - exclude
