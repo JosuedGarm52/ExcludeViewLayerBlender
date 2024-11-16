@@ -31,7 +31,8 @@ Asegura que todas las colecciones hijas sean visibles y utilizables.
 ## Notas
 Si la colección especificada no existe, el script mostrará un mensaje de error en la consola.  
 Asegúrate de usar el nombre exacto de la colección en la variable folder_name.  
-Para desactivar una colección y sus subcolecciones, cambia exclude_state=False por exclude_state=True.  
+Para desactivar una colección y sus subcolecciones, cambia exclude_state=False por exclude_state=True.
+    
 **####Cuidado si la coleccion tiene elementos pesados, muy complejos o que activarlos hagan que el programa se sobrecargue o crashee######**
 ## Compatibilidad
 Este script es compatible con Blender 2.8 y versiones posteriores, ya que utiliza la API moderna basada en View Layers.
